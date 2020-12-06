@@ -1,0 +1,19 @@
+.header-container{
+  padding: 10px 20px;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--LightGray);
+  box-shadow: 0 0px 3px rgb(140 137 137 / 98%);
+}
+
+a.nav-link {
+  text-transform: capitalize;
+  color: var(--Primary);
+  margin: 0 10px;
+  font-size: .85em;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: var(--Hover-color);
+}

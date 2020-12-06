@@ -1,0 +1,20 @@
+.api-status-wrap{
+    background-color: var(--LightGray);
+    padding: 5px 10px;
+    border-radius: 4px;
+    border: 1px solid var(--Hover-color);
+    font-size: .75em;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 60px;
+}
+.api-status-icon{
+    margin-right: 6px;
+}
+.success-color{
+    color: green;
+}
+.failure-color{
+    color: red;
+}

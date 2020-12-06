@@ -1,0 +1,18 @@
+.hello-icon svg{
+    font-size: 2.65em;
+    transform: rotateY(180deg) rotate(30deg);
+    margin-right: 13px;
+}
+.home-page-container {
+    height: calc(100vh - 54px);
+    justify-content: center;
+    align-items: center;
+    color: var(--Primary);
+}
+.subtitle-wrp{
+    margin-top: 25px;
+    margin-bottom: 60px;
+}
+.btn-arrow-icon{
+    margin-left: 10px;
+}
