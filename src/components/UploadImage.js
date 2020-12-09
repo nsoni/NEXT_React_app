@@ -49,7 +49,7 @@ export default function uploadImage(){
           />
         ): null
       }
-      <div className="heading-font text-center margin-top-50 primary-color">Diamond Listing</div>
+      <div className="heading-font text-center margin-top-50 primary-color">Diamond Sample </div>
       <div className={`dead-center ${styles["upload-image-container"]} margin-top-50`}>
         <label htmlFor="image-uploader" className="btn btn-primary relative">
           <div>          
