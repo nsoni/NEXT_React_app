@@ -7,3 +7,6 @@ Do `npm i` to install all dependencies
 `npm run dev` to run developer mode
 
 if everything alright it should onen on `http://localhost:3000`
+
+# Demo 
+https://codesandbox.io/s/elastic-field-b34n4
