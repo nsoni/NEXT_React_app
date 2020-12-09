@@ -1,6 +1,6 @@
 # NEXT_React_app
 
-An Image uploader Server side rendered. Tech base NEXT.js React Hook, Webpack, css grid system and css flex containers
+An Image uploader Server side rendered App. Tech base NEXT.js React Hook, Webpack, css grid system and css flex containers
 
 Do `npm i` to install all dependencies 
 
